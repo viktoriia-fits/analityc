@@ -1,0 +1,101 @@
+goods_id,goods_name,category_id,Option_id,option_values
+1,Canon EOS R6,1,2,Black
+2,Leica Q3,1,3,Black
+3,Nikon Z6 II,1,2,Body Only
+4,Fujifilm X-T5,1,5,Body Only
+5,Fujifilm X-H2,1,1,Kit 24-70
+6,Fujifilm X-T5,1,5,Silver
+7,Canon EOS R6,1,1,Black
+8,GoPro Hero 12,1,4,Pro Kit
+9,GoPro Hero 12,1,5,Kit 24-70
+10,Canon EOS R6,1,5,Body Only
+11,Panasonic Lumix GH6,1,1,Pro Kit
+12,Olympus OM-1,1,3,Kit 24-70
+13,Canon EOS R5,1,5,Body Only
+14,Leica Q3,1,5,Kit 24-70
+15,Olympus OM-1,1,3,Body Only
+16,Leica Q3,1,2,Kit 24-70
+17,Leica Q3,1,3,Silver
+18,Canon EOS R6,1,4,Silver
+19,GoPro Hero 12,1,5,Black
+20,Sony A7 III,1,2,Silver
+21,Fujifilm X-T5,1,2,Black
+22,Nikon Z8,1,2,Kit 24-70
+23,Panasonic Lumix GH6,1,4,Pro Kit
+24,Fujifilm X-H2,1,2,Kit 24-70
+25,Canon EOS R5,1,5,Pro Kit
+26,DJI Pocket 3,1,2,Kit 24-70
+27,Panasonic S5 II,1,3,Kit 24-70
+28,Sony A7 III,1,2,Body Only
+29,Fujifilm X-T5,1,4,Kit 24-70
+30,Canon EOS R5,1,4,Silver
+31,Sony A7R V,1,4,Kit 24-70
+32,Sony A7 IV,1,2,Pro Kit
+33,Sony A7R V,1,5,Pro Kit
+34,Olympus OM-1,1,1,Pro Kit
+35,Fujifilm X-T5,1,2,Kit 24-70
+36,Panasonic Lumix GH6,1,4,Black
+37,Sony A7 IV,1,3,Body Only
+38,Fujifilm X-T5,1,4,Kit 24-70
+39,Canon EOS R5,1,5,Body Only
+40,Canon EOS R5,1,3,Silver
+41,GoPro Hero 12,1,2,Pro Kit
+42,Sony A7 III,1,4,Body Only
+43,Canon EOS R6,1,5,Kit 24-70
+44,Canon EOS R6,1,5,Kit 24-70
+45,Canon EOS R5,1,5,Kit 24-70
+46,GoPro Hero 12,1,5,Black
+47,Nikon Z8,1,3,Body Only
+48,Fujifilm X-T5,1,3,Black
+49,DJI Pocket 3,1,3,Silver
+50,Olympus OM-1,1,2,Body Only
+51,GoPro Hero 12,1,3,Black
+52,Nikon Z8,1,2,Black
+53,Sony A7 III,1,1,Pro Kit
+54,Panasonic S5 II,1,1,Kit 24-70
+55,Canon EOS R5,1,2,Kit 24-70
+56,Panasonic S5 II,1,2,Body Only
+57,Nikon Z6 II,1,1,Silver
+58,Fujifilm X-T5,1,5,Silver
+59,Sony A7 IV,1,2,Body Only
+60,Nikon Z6 II,1,3,Kit 24-70
+61,Sony A7 IV,1,3,Body Only
+62,Olympus OM-1,1,5,Kit 24-70
+63,Nikon Z8,1,4,Silver
+64,Nikon Z8,1,3,Black
+65,Sony A7 III,1,5,Kit 24-70
+66,Nikon Z8,1,4,Black
+67,Panasonic Lumix GH6,1,1,Silver
+68,Sony A7 IV,1,2,Body Only
+69,Panasonic Lumix GH6,1,1,Kit 24-70
+70,Canon EOS R5,1,1,Body Only
+71,Panasonic Lumix GH6,1,5,Kit 24-70
+72,Sony A7R V,1,5,Black
+73,Nikon Z8,1,2,Body Only
+74,Sony A7R V,1,1,Pro Kit
+75,GoPro Hero 12,1,2,Silver
+76,GoPro Hero 12,1,5,Black
+77,Canon EOS R5,1,2,Body Only
+78,Fujifilm X-T5,1,3,Body Only
+79,Olympus OM-1,1,3,Body Only
+80,Sony A7 III,1,4,Black
+81,Canon EOS R6,1,5,Silver
+82,Sony A7R V,1,1,Silver
+83,Canon EOS R6,1,3,Black
+84,Canon EOS R5,1,2,Kit 24-70
+85,DJI Pocket 3,1,1,Kit 24-70
+86,Panasonic S5 II,1,4,Silver
+87,DJI Pocket 3,1,1,Pro Kit
+88,Canon EOS R5,1,1,Silver
+89,GoPro Hero 12,1,4,Pro Kit
+90,Fujifilm X-T5,1,5,Pro Kit
+91,Leica Q3,1,3,Black
+92,Nikon Z6 II,1,3,Kit 24-70
+93,GoPro Hero 12,1,5,Silver
+94,Panasonic Lumix GH6,1,5,Body Only
+95,Panasonic Lumix GH6,1,5,Kit 24-70
+96,Fujifilm X-T5,1,2,Pro Kit
+97,Nikon Z6 II,1,1,Black
+98,GoPro Hero 12,1,2,Body Only
+99,Leica Q3,1,3,Pro Kit
+100,Fujifilm X-T5,1,1,Silver
